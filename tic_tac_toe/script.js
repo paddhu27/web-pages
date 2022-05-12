@@ -172,6 +172,6 @@ function reset(){
     player= chamce + "'s chance"
     document.getElementById("chance").innerHTML= player
     document.getElementById("reset-btn").style.visibility="hidden"
-    document.getElementById("result-text").style.visibility="hidden"
+    document.getElementById("resultText").style.visibility="hidden"
     disabledBtn =0
 }
